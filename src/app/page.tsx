@@ -8,6 +8,7 @@ import WhyChooseUs from "@/components/WhyChooseUs";
 import GettingStarted from "@/components/GettingStarted";
 import Navbar from "@/components/Navbar";
 import Footer from "@/components/Footer";
+import SallyAIChat from "@/components/SallyAIChat";
 
 export default function Home() {
   return (
@@ -45,6 +46,7 @@ export default function Home() {
           <GettingStarted />
         </section>
       </main>
+      <SallyAIChat />
 
       <Footer />
     </>
