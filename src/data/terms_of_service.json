@@ -1,0 +1,103 @@
+{
+  "appName": "IRA (Islam Réuni et Actif)",
+  "lastUpdated": "2023-07-15",
+  "version": "1.0",
+  "sections": [
+    {
+      "title": "Introduction",
+      "content": "Bienvenue sur IRA (Islam Réuni et Actif), une application mobile développée et maintenue par RiRi. En utilisant notre application, vous acceptez d'être lié par les présentes Conditions d'Utilisation. Veuillez les lire attentivement avant d'utiliser l'application. Si vous n'acceptez pas ces conditions, veuillez ne pas utiliser l'application."
+    },
+    {
+      "title": "Définitions",
+      "content": "Dans ces Conditions d'Utilisation, les termes suivants ont les significations indiquées ci-dessous :\n\n- \"Application\" désigne l'application mobile IRA (Islam Réuni et Actif), ses fonctionnalités, contenus et services.\n- \"Utilisateur\", \"vous\" ou \"votre\" désigne toute personne qui accède à ou utilise l'Application.\n- \"Nous\", \"notre\" ou \"nos\" désigne RiRi, le développeur et fournisseur de l'Application.\n- \"Contenu\" désigne tout texte, graphiques, images, musique, logiciels, audio, vidéo, informations ou autres matériels présents sur l'Application.\n- \"Sally AI\" désigne l'assistant virtuel intégré à l'Application."
+    },
+    {
+      "title": "Acceptation des Conditions",
+      "content": "En téléchargeant, installant, accédant à ou utilisant l'Application, vous indiquez que vous avez lu, compris et accepté d'être lié par ces Conditions d'Utilisation. Si vous n'acceptez pas ces conditions, vous ne devez pas accéder à ou utiliser l'Application."
+    },
+    {
+      "title": "Modifications des Conditions",
+      "content": "Nous nous réservons le droit de modifier ces Conditions d'Utilisation à tout moment. Les modifications prendront effet dès leur publication dans l'Application. Votre utilisation continue de l'Application après la publication des modifications constitue votre acceptation des Conditions modifiées. Il est de votre responsabilité de consulter régulièrement ces Conditions."
+    },
+    {
+      "title": "Éligibilité",
+      "content": "L'Application est destinée aux utilisateurs de tous âges. Cependant, si vous avez moins de 18 ans, vous devez obtenir le consentement d'un parent ou tuteur légal avant d'utiliser l'Application. Certaines fonctionnalités, comme les dons ou les achats, peuvent être réservées aux utilisateurs majeurs selon les lois applicables."
+    },
+    {
+      "title": "Compte Utilisateur",
+      "content": "Pour accéder à certaines fonctionnalités de l'Application, vous devrez créer un compte utilisateur. Vous êtes responsable de maintenir la confidentialité de vos informations de compte et de toutes les activités qui se produisent sous votre compte. Vous acceptez de nous notifier immédiatement de toute utilisation non autorisée de votre compte. Nous ne serons pas responsables des pertes résultant d'une utilisation non autorisée de votre compte."
+    },
+    {
+      "title": "Comportement de l'Utilisateur",
+      "content": "En utilisant l'Application, vous acceptez de ne pas :\n\n- Violer les lois applicables ou ces Conditions d'Utilisation.\n- Publier ou transmettre du contenu illégal, nuisible, menaçant, abusif, harcelant, diffamatoire, vulgaire, obscène, haineux ou autrement répréhensible.\n- Usurper l'identité d'une personne ou d'une entité.\n- Interférer avec ou perturber l'Application ou les serveurs ou réseaux connectés à l'Application.\n- Tenter de décompiler, désassembler, faire de l'ingénierie inverse ou autrement tenter de découvrir le code source de l'Application.\n- Utiliser l'Application pour envoyer des messages non sollicités ou du spam.\n- Collecter ou stocker des données personnelles sur d'autres utilisateurs sans leur consentement.\n- Utiliser l'Application d'une manière qui pourrait endommager, désactiver, surcharger ou compromettre nos systèmes ou notre sécurité."
+    },
+    {
+      "title": "Contenu Religieux",
+      "content": "L'Application fournit du contenu religieux islamique, y compris mais non limité au Coran, aux Hadiths, aux horaires de prière, et aux guides d'apprentissage. Ce contenu est fourni à des fins éducatives et spirituelles. Bien que nous nous efforcions d'assurer l'exactitude et l'authenticité du contenu religieux, nous ne garantissons pas son exactitude absolue. Les utilisateurs sont encouragés à vérifier les informations importantes auprès de sources fiables et d'érudits qualifiés."
+    },
+    {
+      "title": "Contenu Généré par l'Utilisateur",
+      "content": "L'Application permet aux utilisateurs de publier, soumettre ou partager du contenu, y compris dans les forums de discussion, les commentaires et les messages privés. En soumettant du contenu à l'Application, vous accordez à RiRi une licence mondiale, non exclusive, libre de redevances, transférable et pouvant faire l'objet d'une sous-licence pour utiliser, reproduire, distribuer, préparer des œuvres dérivées, afficher et exécuter ce contenu en relation avec l'Application.\n\nVous êtes seul responsable du contenu que vous publiez et des conséquences de sa publication. Nous nous réservons le droit de supprimer tout contenu qui viole ces Conditions ou que nous jugeons autrement inapproprié."
+    },
+    {
+      "title": "Sally AI et Assistants Virtuels",
+      "content": "L'Application inclut Sally AI, un assistant virtuel alimenté par l'intelligence artificielle. Sally AI est conçu pour fournir des informations et des réponses basées sur les connaissances islamiques. Cependant, les réponses générées par Sally AI ne doivent pas être considérées comme des conseils religieux officiels ou des fatwas. Les utilisateurs doivent toujours consulter des érudits qualifiés pour des questions religieuses importantes.\n\nLes conversations avec Sally AI peuvent être enregistrées et analysées pour améliorer le service. En utilisant Sally AI, vous consentez à cette collecte et utilisation de données conformément à notre Politique de Confidentialité."
+    },
+    {
+      "title": "Publicités",
+      "content": "L'Application contient des publicités qui constituent une source de revenus essentielle pour maintenir et améliorer nos services. Ces publicités sont soigneusement sélectionnées pour être authentiques et appropriées pour notre audience. En utilisant l'Application, vous acceptez de recevoir ces publicités.\n\nNous encourageons les utilisateurs à soutenir l'Application en interagissant avec les publicités qui les intéressent. Cette contribution aide à maintenir l'Application sans frais d'abonnement obligatoires.\n\nNous nous efforçons de garantir que les publicités affichées sont conformes aux valeurs islamiques et ne contiennent pas de contenu inapproprié. Cependant, nous ne sommes pas responsables du contenu des publicités fournies par des réseaux publicitaires tiers. Si vous rencontrez une publicité que vous jugez inappropriée, veuillez nous le signaler."
+    },
+    {
+      "title": "Propriété Intellectuelle",
+      "content": "L'Application et son contenu original, fonctionnalités et fonctionnalités sont et resteront la propriété exclusive de RiRi et de ses concédants de licence. L'Application est protégée par le droit d'auteur, les marques et autres lois de propriété intellectuelle. Nos marques et habillages commerciaux ne peuvent pas être utilisés en relation avec un produit ou service sans notre consentement écrit préalable."
+    },
+    {
+      "title": "Contenu Tiers",
+      "content": "L'Application peut contenir des liens vers des sites web tiers, des services ou d'autres contenus qui ne sont pas détenus ou contrôlés par RiRi. Nous n'avons aucun contrôle sur, et n'assumons aucune responsabilité pour, le contenu, les politiques de confidentialité ou les pratiques de sites web ou services tiers. Vous reconnaissez et acceptez que RiRi ne sera pas responsable, directement ou indirectement, de tout dommage ou perte causé ou présumé être causé par ou en relation avec l'utilisation de ou la confiance en un tel contenu, biens ou services disponibles sur ou via ces sites ou services."
+    },
+    {
+      "title": "Dons et Paiements",
+      "content": "L'Application permet aux utilisateurs de faire des dons à diverses causes et organisations caritatives. Les dons sont traités par des prestataires de services de paiement tiers, notamment Stripe, PayPal et Orange Money. En faisant un don, vous acceptez les conditions d'utilisation de ces prestataires de services.\n\nNous nous efforçons de garantir que tous les dons parviennent aux bénéficiaires prévus, mais nous ne pouvons pas garantir comment les fonds seront utilisés par les organisations bénéficiaires. Nous ne sommes pas responsables des actions des organisations caritatives ou des bénéficiaires des dons."
+    },
+    {
+      "title": "Fonctionnalités Communautaires",
+      "content": "L'Application offre diverses fonctionnalités communautaires, y compris des forums de discussion, des événements et des messageries privées. En utilisant ces fonctionnalités, vous acceptez de respecter les directives communautaires et de ne pas publier de contenu inapproprié, offensant ou illégal.\n\nNous nous réservons le droit de modérer le contenu communautaire et de supprimer tout contenu qui viole nos directives. Nous pouvons également suspendre ou résilier l'accès aux fonctionnalités communautaires pour les utilisateurs qui enfreignent régulièrement ces règles."
+    },
+    {
+      "title": "Navigateur Intégré",
+      "content": "L'Application inclut un navigateur web intégré qui permet aux utilisateurs d'accéder à des sites web sans quitter l'Application. Ce navigateur est fourni pour votre commodité, mais nous ne sommes pas responsables du contenu des sites web tiers auxquels vous accédez via ce navigateur. Votre utilisation de sites web tiers est soumise aux conditions d'utilisation et politiques de confidentialité de ces sites."
+    },
+    {
+      "title": "Limitation de Responsabilité",
+      "content": "Dans toute la mesure permise par la loi applicable, RiRi ne sera pas responsable des dommages indirects, accessoires, spéciaux, consécutifs ou punitifs, ou de toute perte de profits ou de revenus, qu'ils soient encourus directement ou indirectement, ou de toute perte de données, d'utilisation, de fonds de commerce ou d'autres pertes intangibles, résultant de :\n\n- Votre utilisation ou incapacité à utiliser l'Application.\n- Tout contenu obtenu à partir de l'Application.\n- Accès non autorisé, utilisation ou altération de vos transmissions ou contenus.\n\nNotre responsabilité totale pour toute réclamation en vertu de ces Conditions, y compris pour toute garantie implicite, est limitée au montant que vous nous avez payé pour utiliser l'Application (ou, si nous n'avons pas fixé de prix, à 100 €)."
+    },
+    {
+      "title": "Indemnisation",
+      "content": "Vous acceptez de défendre, indemniser et tenir RiRi et ses concédants de licence et fournisseurs de services, et leurs dirigeants, administrateurs, employés, contractants, agents, concédants, fournisseurs, successeurs et ayants droit respectifs indemnes de et contre toute réclamation, responsabilité, dommage, jugement, attribution, perte, coût, dépense ou frais (y compris les honoraires d'avocat raisonnables) découlant de ou liés à votre violation de ces Conditions d'Utilisation ou votre utilisation de l'Application."
+    },
+    {
+      "title": "Résiliation",
+      "content": "Nous pouvons résilier ou suspendre votre compte et votre accès à l'Application immédiatement, sans préavis ni responsabilité, pour quelque raison que ce soit, y compris, sans limitation, si vous violez les Conditions d'Utilisation.\n\nEn cas de résiliation, votre droit d'utiliser l'Application cessera immédiatement. Si vous souhaitez résilier votre compte, vous pouvez simplement cesser d'utiliser l'Application et/ou supprimer votre compte."
+    },
+    {
+      "title": "Loi Applicable",
+      "content": "Ces Conditions seront régies et interprétées conformément aux lois de Madagascar, sans égard aux dispositions relatives aux conflits de lois."
+    },
+    {
+      "title": "Règlement des Litiges",
+      "content": "Tout litige découlant de ou lié à ces Conditions ou à votre utilisation de l'Application sera soumis à la juridiction exclusive des tribunaux de Madagascar."
+    },
+    {
+      "title": "Divisibilité",
+      "content": "Si une disposition de ces Conditions est jugée inapplicable ou invalide, cette disposition sera limitée ou éliminée dans la mesure minimale nécessaire pour que ces Conditions restent par ailleurs pleinement en vigueur et applicables."
+    },
+    {
+      "title": "Intégralité de l'Accord",
+      "content": "Ces Conditions constituent l'intégralité de l'accord entre vous et RiRi concernant l'Application et remplacent tous les accords antérieurs et contemporains, communications et propositions, qu'ils soient oraux ou écrits, entre vous et RiRi."
+    },
+    {
+      "title": "Contact",
+      "content": "Si vous avez des questions concernant ces Conditions d'Utilisation, veuillez nous contacter à <a href=\"mailto:support@ira-app.com\" style=\"color:#4ade80;text-decoration:underline;\">support@ira-app.com</a>."
+    }
+  ]
+}
