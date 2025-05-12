@@ -463,31 +463,6 @@ export default function PlatformSelector({
                       </div>
                     )}
                   </div>
-
-                  <div className="mt-6 bg-white/5 rounded-lg p-4">
-                    <h4 className="text-white font-medium mb-2 flex items-center">
-                      <span className="bg-blue-500/20 p-1 rounded-full mr-2">
-                        <FaChrome className="text-blue-400" />
-                      </span>
-                      Google Play Store
-                    </h4>
-                    <p className="text-gray-400 text-sm mb-4">
-                      Téléchargez depuis le Play Store pour des mises à jour
-                      automatiques et une installation simplifiée.
-                    </p>
-                    <button
-                      className="w-full px-4 py-3 bg-blue-600 hover:bg-blue-700 text-white rounded-md font-medium transition-colors flex items-center justify-center"
-                      onClick={() => {
-                        window.open(
-                          "https://play.google.com/store/apps/details?id=com.riri.muslim_community",
-                          "_blank"
-                        );
-                      }}
-                    >
-                      <FaChrome className="mr-2" />
-                      <span>Ouvrir le Play Store</span>
-                    </button>
-                  </div>
                 </div>
               )}
 
