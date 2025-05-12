@@ -3,8 +3,6 @@
 import { useEffect, useState } from "react";
 import PlatformSelector from "@/components/PlatformSelector";
 import AnimatedBackground from "@/components/AnimatedBackground";
-import Navbar from "@/components/Navbar";
-import Footer from "@/components/Footer";
 
 export default function PlatformPage() {
   const [isLoaded, setIsLoaded] = useState(false);
