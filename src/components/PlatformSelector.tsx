@@ -45,16 +45,6 @@ export default function PlatformSelector({
   const [downloadStarted, setDownloadStarted] = useState(false);
 
   useEffect(() => {
-    if (isOpen) {
-      setIsAnalyzing(true);
-      setTimeout(() => {
-        detectDevice();
-        setIsAnalyzing(false);
-      }, 1000); // Reduced analysis time for better UX
-    }
-  }, [isOpen]);
-
-  useEffect(() => {
     // Check for URL parameters when component mounts
     if (typeof window !== "undefined") {
       const params = new URLSearchParams(window.location.search);
@@ -75,9 +65,16 @@ export default function PlatformSelector({
           source: source || "detector",
         });
         setIsAnalyzing(false);
+      } else if (isOpen) {
+        // Only run browser detection if no URL parameters and modal is open
+        setIsAnalyzing(true);
+        setTimeout(() => {
+          detectDevice();
+          setIsAnalyzing(false);
+        }, 1000);
       }
     }
-  }, []);
+  }, [isOpen]);
 
   const detectDevice = () => {
     // Only run on client side
