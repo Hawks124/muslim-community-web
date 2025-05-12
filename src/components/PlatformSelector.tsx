@@ -51,12 +51,13 @@ export default function PlatformSelector({
       const arch = params.get("arch");
       const model = params.get("model");
       const source = params.get("source");
+      const osVersion = params.get("osVersion"); // Get OS version from URL
 
       if (arch) {
         // If architecture is provided in URL, use it
         setDeviceInfo({
           os: "Android",
-          osVersion: "Unknown",
+          osVersion: osVersion || "Unknown", // Use OS version from URL
           architecture: arch,
           isAndroid: true,
           browser: "Unknown",
@@ -148,8 +149,30 @@ export default function PlatformSelector({
         }
       }
     } else {
-      // For non-Android devices, suggest downloading the detector app
-      os = "Non-Android";
+      // Better detection for desktop OS
+      if (userAgent.includes("windows")) {
+        os = "Windows";
+        // Extract Windows version
+        if (userAgent.includes("windows nt 10")) {
+          osVersion = "10/11";
+        } else if (userAgent.includes("windows nt 6.3")) {
+          osVersion = "8.1";
+        } else if (userAgent.includes("windows nt 6.2")) {
+          osVersion = "8";
+        } else if (userAgent.includes("windows nt 6.1")) {
+          osVersion = "7";
+        }
+      } else if (
+        userAgent.includes("macintosh") ||
+        userAgent.includes("mac os")
+      ) {
+        os = "macOS";
+      } else if (userAgent.includes("linux")) {
+        os = "Linux";
+      } else if (userAgent.includes("iphone") || userAgent.includes("ipad")) {
+        os = "iOS";
+      }
+
       architecture = "unknown";
       confidence = "low";
     }
