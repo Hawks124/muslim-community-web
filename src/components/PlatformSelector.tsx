@@ -310,7 +310,13 @@ export default function PlatformSelector({
                         {deviceInfo.architecture}
                       </div>
                       <div className="mt-1">
-                        {getConfidenceLabel(deviceInfo.confidence)}
+                        {deviceInfo.source === "detector" ? (
+                          <span className="flex items-center text-green-400 text-xs">
+                            <FiCheckCircle className="mr-1" /> Détection fiable
+                          </span>
+                        ) : (
+                          getConfidenceLabel(deviceInfo.confidence)
+                        )}
                       </div>
                     </div>
 
